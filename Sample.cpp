@@ -3,5 +3,6 @@
 init manin()
 {
     printf("Hello World");
+    pringf("Hello git");
     return 0;
 }
