@@ -2,7 +2,7 @@
 #include<stdio.h>
 init manin()
 {
-    printf("Hello World");
+    printf("Hello World trying to connect to Github");
     pringf("Hello git");
     return 0;
 }
